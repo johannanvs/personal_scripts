@@ -2,7 +2,7 @@
 
 # Last updated: 2021-03-10, Johanna von Seth
 
-# A script to output results from GERP analysis.
+# A script to output results from GERP analysis, modified from Tom van der Valk's skeleton script.
 
 # The merged vcf file should only contain high coverage samples,
 # and have been filtered for missing sites.
